@@ -1,0 +1,12 @@
+{
+  "language": "en",
+  "hotword": "Nova",
+  "groq_model": "llama3-8b-8192",
+  "elevenlabs_model": "eleven_turbo_v2_5",
+  "elevenlabs_voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+  "offline_mode": "False",
+  "stream_voice": true,
+  "microphone_index": 0,
+  "behaviour": "You are an AI assistant called 'Nova'.",
+  "name": ""
+}

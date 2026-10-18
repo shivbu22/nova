@@ -1,0 +1,24 @@
+setuptools
+wheel
+Levenshtein
+groq
+elevenlabs
+pyaudio
+faster-whisper
+sounddevice
+spicy
+numpy
+langcodes
+prompt_toolkit
+keyring
+silero-vad
+platformdirs
+colorama
+packaging
+transformers
+pyaudio
+accelerate
+TTS
+simpleaudio
+llama-cpp-python \ --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu121
+google.generativeai

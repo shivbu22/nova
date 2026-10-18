@@ -1,0 +1,21 @@
+{
+  "name": "nova",
+  "version": "1.0.0",
+  "description": "**Version 1.6**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00Julian00/Nova.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/00Julian00/Nova/issues"
+  },
+  "homepage": "https://github.com/00Julian00/Nova#readme"
+}
